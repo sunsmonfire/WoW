@@ -1,4 +1,4 @@
-name: CI
+name: Vps Free
 
 on: workflow_dispatch
 
